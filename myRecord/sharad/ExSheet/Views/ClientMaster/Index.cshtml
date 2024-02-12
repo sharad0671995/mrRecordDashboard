@@ -1,0 +1,89 @@
+﻿@model IEnumerable<ExSheet.Models.ClientMaster>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+
+    <div class="col-md-12"> @* offset-md-1">*@
+        
+
+        
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayName("Image")
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.code)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.dateTime)
+                    </th>
+                    
+                    <th>
+                        <a asp-action="AddOrEdit" class="btn btn-sm btn-success" style="width:92px !important">
+                            <i class="fa-solid fa-plus"></i>
+                            New
+                        </a>
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="myTable">
+                @foreach (var item in Model)
+                {
+                <tr>
+
+                    <td>
+
+                        <img src="@("~/image/"+item.logo)" asp-append-version="true" width="50px" height="50px" />
+
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.code)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name)
+                    </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.dateTime)
+                        </td>
+                    <td>
+
+                        <form asp-action="Delete" asp-route-id="@item.ClientId">
+                            <div class="btn-group btn-group-sm">
+                                    <a asp-action="AddOrEdit" asp-route-id="@item.ClientId" class="btn btn-warning">
+                                    <i class="fa-solid fa-pen-to-square">Edit</i>
+                                </a>
+
+                                    <a asp-action="Details" asp-route-id="@item.ClientId" class="btn btn-info">
+                                    <i class="fa-solid fa-pen-to-square">Details</i>
+                                </a>
+
+                                <button type="submit" class="btn btn-danger"
+                                        onclick="return confirm('Are you sure? ,you want to delete the selected record')">
+                                    <i class="far fa-trash-alt"> Delete</i>
+                                </button>
+                            </div>
+
+
+                        </form>
+
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>
+

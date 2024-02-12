@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ExSheet
+build_property.RootNamespace = ExSheet
+build_property.ProjectDir = E:\AiiB\SharadLL\ExSheet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\AiiB\SharadLL\ExSheet
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientMaster/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50TWFzdGVyXEFkZE9yRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientMaster/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50TWFzdGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientMaster/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50TWFzdGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientMaster/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50TWFzdGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientMaster/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50TWFzdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientpMasters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50cE1hc3RlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientpMasters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50cE1hc3RlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientpMasters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50cE1hc3RlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientpMasters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50cE1hc3RlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/ClientpMasters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50cE1hc3RlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Linemasters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZW1hc3RlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Linemasters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZW1hc3RlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Linemasters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZW1hc3RlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Linemasters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZW1hc3RlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Linemasters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGluZW1hc3RlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AiiB/SharadLL/ExSheet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8n3aytsr5v

@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myRecord
 build_property.RootNamespace = myRecord
-build_property.ProjectDir = E:\AiiB\SharadLL\myRecord\
+build_property.ProjectDir = E:\MainProFinal\MRAndMiss\mrRecordDashboard\myRecord\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\AiiB\SharadLL\myRecord
+build_property.MSBuildProjectDirectory = E:\MainProFinal\MRAndMiss\mrRecordDashboard\myRecord
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Employee/Create.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Employee/Delete.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Employee/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Employee/Detail.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Employee/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Employee/Edit.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Employee/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Employee/Index.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Home/Index.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Home/Privacy.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Shared/Error.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/_ViewImports.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/_ViewStart.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AiiB/SharadLL/myRecord/Views/Shared/_Layout.cshtml]
+[E:/MainProFinal/MRAndMiss/mrRecordDashboard/myRecord/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k5jys7es3k

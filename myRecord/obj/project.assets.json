@@ -4021,11 +4021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AiiB\\SharadLL\\myRecord\\myRecord.csproj",
+      "projectUniqueName": "E:\\MainProFinal\\MRAndMiss\\mrRecordDashboard\\myRecord\\myRecord.csproj",
       "projectName": "myRecord",
-      "projectPath": "E:\\AiiB\\SharadLL\\myRecord\\myRecord.csproj",
+      "projectPath": "E:\\MainProFinal\\MRAndMiss\\mrRecordDashboard\\myRecord\\myRecord.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\AiiB\\SharadLL\\myRecord\\obj\\",
+      "outputPath": "E:\\MainProFinal\\MRAndMiss\\mrRecordDashboard\\myRecord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

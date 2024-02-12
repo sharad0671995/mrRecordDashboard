@@ -1,0 +1,61 @@
+﻿@model ExSheet.Models.ClientMaster
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-6 offset-md-4">
+       
+        <form asp-action="AddOrEdit" enctype="multipart/form-data" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ClientId" />
+            <div class="form-group">
+                <label asp-for="code" class="control-label"></label>
+                <input asp-for="code" class="form-control" />
+                <span asp-validation-for="code" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="logo" class="control-label"></label>
+                <input asp-for="logo" class="form-control" />
+                <span asp-validation-for="logo" class="text-danger"></span>
+            </div>
+           
+
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <br />
+                <input asp-for="ImageFile" accept="image/*" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @Html.DisplayFor(model => model.dateTime)
+            </div>
+
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary w-100" />
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <a asp-action="Index" class="btn btn-secondary w-100">View All</a>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
