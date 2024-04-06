@@ -1,0 +1,29 @@
+E:\MainProFinal\.NET8\GIT\New folder\Badave\bin\Debug\Badave.exe.config
+E:\MainProFinal\.NET8\GIT\New folder\Badave\bin\Debug\Badave.exe
+E:\MainProFinal\.NET8\GIT\New folder\Badave\bin\Debug\Badave.pdb
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.csproj.AssemblyReference.cache
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.Form1.resources
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.Properties.Resources.resources
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.csproj.GenerateResource.cache
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.csproj.CoreCompileInputs.cache
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.exe
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.pdb
+E:\MainProFinal\.NET8\GIT\New folder\Badave\bin\Debug\EasyModbus.dll
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.csproj.CopyComplete
+E:\MainProFinal\.NET8\GIT\New folder\Badave\obj\Debug\Badave.ModbusForm.resources
+E:\MainProFinal\.NET8\GIT\New folder\Badave\bin\Debug\NModbus.dll
+E:\MainProFinal\.NET8\GIT\New folder\Badave\bin\Debug\NModbus.xml
+C:\Sharad\Badave\Badave\bin\Debug\Badave.exe.config
+C:\Sharad\Badave\Badave\bin\Debug\Badave.exe
+C:\Sharad\Badave\Badave\bin\Debug\Badave.pdb
+C:\Sharad\Badave\Badave\bin\Debug\NModbus.dll
+C:\Sharad\Badave\Badave\bin\Debug\NModbus.xml
+C:\Sharad\Badave\Badave\obj\Debug\Badave.csproj.AssemblyReference.cache
+C:\Sharad\Badave\Badave\obj\Debug\Badave.Form1.resources
+C:\Sharad\Badave\Badave\obj\Debug\Badave.ModbusForm.resources
+C:\Sharad\Badave\Badave\obj\Debug\Badave.Properties.Resources.resources
+C:\Sharad\Badave\Badave\obj\Debug\Badave.csproj.GenerateResource.cache
+C:\Sharad\Badave\Badave\obj\Debug\Badave.csproj.CoreCompileInputs.cache
+C:\Sharad\Badave\Badave\obj\Debug\Badave.csproj.CopyComplete
+C:\Sharad\Badave\Badave\obj\Debug\Badave.exe
+C:\Sharad\Badave\Badave\obj\Debug\Badave.pdb

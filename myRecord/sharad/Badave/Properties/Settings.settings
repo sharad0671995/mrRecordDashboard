@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Badave.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Conn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-BHDBMC2\\SQLEXPRESS;Initial Catalog=e-JH-PM-Mgt-Badve;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="PlcIpAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.4</Value>
+    </Setting>
+    <Setting Name="PlcPortNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">502</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

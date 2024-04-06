@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SouceFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\hp\Desktop\New folder</Value>
+    </Setting>
+    <Setting Name="DestinationFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\DESKTOP-BHDBMC2\SharadKute</Value>
+    </Setting>
+    <Setting Name="constr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-DNJS4DS;Initial Catalog=E-Server-File-Transfer;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="hhh" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
